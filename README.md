@@ -31,3 +31,10 @@ Clone o repositório:
 ```bash
 git clone https://github.com/seu-usuario/todolist-vue-ts-tailwind.git
 cd todolist-vue-ts-tailwind
+
+### Run
+npm install
+npm run serve
+# ou
+yarn run serve
+
